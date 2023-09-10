@@ -5,8 +5,8 @@
 📚Junior at VIT Chennai doing BTech - Electronics and Computer Engineering<br/>
 💻Open for Work
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/aparajith-n-54224a210/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:aparajith.n@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparajith-n-54224a210/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparajith.n@gmail.com)
 <hr/>
 
 **Languages I have used**

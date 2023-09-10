@@ -1,7 +1,7 @@
 
 <h1>Aparajith N</h1>
 
-⭐Full Stack Engineer| Robotics . <br/>
+⭐Full Stack Engineer | Robotics <br/>
 📚Junior at VIT Chennai doing BTech - Electronics and Computer Engineering<br/>
 💻Open for Work
 

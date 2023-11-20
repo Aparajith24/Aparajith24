@@ -9,8 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparajith.n@gmail.com)
 <hr/>
 
-**Web/Full Stack projects**
-
 [![My Website](https://img.shields.io/badge/-⭐️&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://aparajith-portfolio.vercel.app/#home)
 
 **Languages I have used**

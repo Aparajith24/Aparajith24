@@ -5,6 +5,7 @@
 ⭐Full Stack Engineer | Robotics | Embedded Systems  <br/>
 📚Senior at VIT Chennai doing BTech - Electronics and Computer Engineering<br/>
 💻Open for Work
+🏀Building HoopSpace
 
 [![My Website](https://img.shields.io/badge/-✅&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://aparajith-portfolio.vercel.app/#home)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparajith-n-54224a210/)

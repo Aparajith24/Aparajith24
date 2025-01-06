@@ -2,9 +2,8 @@
 <h1>Aparajith N</h1>
 
 ![](https://komarev.com/ghpvc/?username=Aparajith24) <br/>
-⭐Full Stack Engineer | Robotics | Embedded Systems  <br/>
+⭐Full Stack Engineer  <br/>
 📚Senior at VIT Chennai doing BTech - Electronics and Computer Engineering<br/>
-💻Open for Work
 🏀Building HoopSpace
 
 [![My Website](https://img.shields.io/badge/-✅&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://aparajith-portfolio.vercel.app/#home)

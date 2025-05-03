@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Aparajith24) <br/>
 ⭐Full Stack Engineer  <br/>
-📚Senior at VIT Chennai doing BTech - Electronics and Computer Engineering<br/>
 🏀Building HoopSpace
 
 [![My Website](https://img.shields.io/badge/-✅&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://aparajith-portfolio.vercel.app/#home)

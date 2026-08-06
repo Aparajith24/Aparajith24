@@ -24,7 +24,7 @@
 
 ### 🌱 Currently
 
-* Building **wealth-tech platforms**
+* Building **Valura.Ai**
 * Learning **Go** and **System Design**
 
 

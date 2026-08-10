@@ -1,7 +1,5 @@
 # Hi there 👋 I’m **Aparajith N**
 
-![](https://komarev.com/ghpvc/?username=Aparajith24\&label=Profile%20Views\&color=0e75b6\&style=flat)
-
 💻 **Full Stack Engineer**
 🚀 Building scalable **web applications**
 📍 Bengaluru, India
